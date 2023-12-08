@@ -48,5 +48,5 @@ body {
   color: white;
   font-size: 1.3em;
 }
-.del{ color:red;
-  font-size:11px;}
+.del{ 
+  font-size:11px !important;}
